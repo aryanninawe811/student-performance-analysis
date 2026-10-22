@@ -27,14 +27,16 @@ Subject-Wise Average Marks
 - Matplotlib — Data visualization
 - CSV — Student data storage and report generation
 
-📂 Project Files
+📁 Project Files
 
-File| Description
-"main.py"| Main Python program
-"students.csv"| Sample student data
-"performance_report.csv"| Generated performance report
-"student_performance.png"| Student performance chart
-"subject_average_comparison.png"| Subject-wise average chart
+| File | Description |
+|---|---|
+| `main.py` | Main Python program |
+| `students.csv` | Sample student data |
+| `performance_report.csv` | Generated performance report |
+| `requirements.txt` | Required Python libraries |
+| `student_performance.png` | Student performance chart |
+| `subject_average_comparison.png` | Subject-wise average chart |
 
 ▶️ How to Run
 
